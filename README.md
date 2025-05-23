@@ -1,6 +1,6 @@
 - Hey, I'm Shubham Tiwari 👋 
-- 👀 I’m interested in Geospatial Artificial Intelligence(GeoAI)
-- 🌱 I’m currently learning Geopy
+- 👀 I’m interested in Geospatial Developement
+- 🌱 I have worked in backend and frontend technologies.
 - 📫 How to reach me - shubhamtiwari2826@gmail.com
 
 
