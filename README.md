@@ -1,5 +1,5 @@
-- Hey, I'm Shubham Tiwari 👋 
-- 👀 I’m interested in Geospatial Developement
+- Hey, I'm Shubham  👋 
+- 👀 I’m interested in GIS Developement
 - 🌱 I have worked in backend and frontend technologies.
 - 📫 How to reach me - shubhamtiwari2826@gmail.com
 
